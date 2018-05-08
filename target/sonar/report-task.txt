@@ -1,0 +1,6 @@
+projectKey=com.spring:SampProject
+serverUrl=http://localhost:9000
+serverVersion=6.7.2.37468
+dashboardUrl=http://localhost:9000/dashboard/index/com.spring:SampProject
+ceTaskId=AWNAXj-Y_LiT9d3gOl2G
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWNAXj-Y_LiT9d3gOl2G
